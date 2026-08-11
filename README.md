@@ -1,4 +1,4 @@
-# 👀 Me
+# 👀 **Me**
 
 👋 Hi, I'm Utkarsh                                                                                                                                                                         
 
@@ -8,9 +8,9 @@
  •   🧐 Hunt me on: [ProductHunt](https://www.producthunt.com/@matrix0608)                                                                                                                                           
   •  📡 Connect with me: [Twitter](https://x.com/Utkarsh2139) | [LinkedIn](https://www.linkedin.com/in/utkarsh-tiwari-4159263a8/)
 
-# ✍️ Skills
+# ✍️ **Skills**
 
- •  - **Programming:**: Python, C/C++, JAVASCRIPT                                                                                                                                                  
- •  Cloud & DevOps: Google Cloud Platform, Linux, Git, Docker  
- •  Databases: PostgreSQL, MongoDB, GraphQL       
- •  Frameworks & Libraries: Node.js, Pytouch                                                                                                                                                 
+ •  **Programming:** Python, C/C++, JAVASCRIPT                                                                                                                                                  
+ •  **Cloud & DevOps:** Google Cloud Platform, Linux, Git, Docker  
+ •  **Databases:** PostgreSQL, MongoDB, GraphQL       
+ •  **Frameworks & Libraries:** Node.js, Pytouch                                                                                                                                                 
