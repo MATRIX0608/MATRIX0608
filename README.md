@@ -10,7 +10,7 @@
 
 # ✍️ **Skills**
 
- •  **Programming:** Python, C/C++, JAVASCRIPT                                                                                                                                                  
+ •  **Programming:** Python, C/C++, JavaScript                                                                                                                                                  
  •  **Cloud & DevOps:** Google Cloud Platform, Linux, Git, Docker  
  •  **Databases:** PostgreSQL, MongoDB, GraphQL       
  •  **Frameworks & Libraries:** Node.js, Pytouch                                                                                                                                                 
