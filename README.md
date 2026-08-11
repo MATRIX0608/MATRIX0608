@@ -7,3 +7,5 @@
 ● 📧 Reach me via: utkarshtiwari2139@gmail.com                                                                                                                                             
 ● 📡 Connect with me: [Twitter](https://x.com/Utkarsh2139) | [LinkedIn](https://www.linkedin.com/in/utkarsh-tiwari-4159263a8/)
 
+# ✍️ Skills
+● Programming: Python, C/C++,JS
