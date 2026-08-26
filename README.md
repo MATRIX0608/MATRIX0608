@@ -1,4 +1,4 @@
-<img width="168" height="153" alt="- Find   Share on GIPHY" src="https://github.com/user-attachments/assets/b17f2d96-2081-4fc2-946f-94577a3fcda7" />
+
 # 🍀 **Me**
 
 👋 Hi, I'm Utkarsh                                                                                                                                                                         
@@ -12,6 +12,6 @@
 # 🌴 **Skills**
 
    •  **Programming:** Python, C/C++, JavaScript                                                                                                                                                  
-   •  **Cloud & DevOps:** Google Cloud Platform, Linux, Git, Docker  
+   •  **Cloud & DevOps:** Google Cloud Platform, Linux, Git, Docker  <img width="168" height="153" alt="- Find   Share on GIPHY" src="https://github.com/user-attachments/assets/b17f2d96-2081-4fc2-946f-94577a3fcda7" />                                
    •  **Databases:** PostgreSQL, MongoDB, GraphQL       
    •  **Frameworks & Libraries:** Node.js, Pytouch                                                                                                                                                 
