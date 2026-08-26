@@ -1,4 +1,4 @@
-<img width="480" height="360" alt="- Find   Share on GIPHY" src="https://github.com/user-attachments/assets/b17f2d96-2081-4fc2-946f-94577a3fcda7" />
+<img width="168" height="153" alt="- Find   Share on GIPHY" src="https://github.com/user-attachments/assets/b17f2d96-2081-4fc2-946f-94577a3fcda7" />
 # 🍀 **Me**
 
 👋 Hi, I'm Utkarsh                                                                                                                                                                         
